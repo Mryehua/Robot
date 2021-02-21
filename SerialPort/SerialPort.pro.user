@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.1, 2021-02-21T09:37:06. -->
+<!-- Written by QtCreator 4.11.1, 2021-02-21T10:15:05. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -285,8 +285,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/media/ad/Seagate Backup Plus Drive/备份/备份20200709/QT/works/SerialPort/SerialPort.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/media/ad/Seagate Backup Plus Drive/备份/备份20200709/QT/works/SerialPort/SerialPort.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">SerialPort2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/ad/localrepository/Myrobot/SerialPort/SerialPort.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/ad/localrepository/Myrobot/SerialPort/SerialPort.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
